@@ -1,5 +1,5 @@
 ahoj muj prvni soubor
 
-druhy text 
+druhy text  zmena ted 
 
 Zmena souboru
